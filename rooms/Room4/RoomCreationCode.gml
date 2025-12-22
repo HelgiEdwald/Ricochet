@@ -1,0 +1,1 @@
+global.spawn_position = [268, 447];

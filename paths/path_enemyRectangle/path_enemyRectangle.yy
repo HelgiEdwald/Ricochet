@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"path_enemyRectangle",
+  "closed":true,
+  "kind":0,
+  "name":"path_enemyRectangle",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":222.0,"y":847.0,},
+    {"speed":100.0,"x":222.0,"y":720.0,},
+    {"speed":100.0,"x":478.0,"y":720.0,},
+    {"speed":100.0,"x":478.0,"y":847.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
