@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_healthBar3",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0cd515a6-7ddc-42f3-9b11-11f493d4cbf9","name":"0cd515a6-7ddc-42f3-9b11-11f493d4cbf9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0cd515a6-7ddc-42f3-9b11-11f493d4cbf9","name":"0cd515a6-7ddc-42f3-9b11-11f493d4cbf9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":21,
   "gridY":9,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_healthBar3",
     "autoRecord":true,
     "backdropHeight":768,

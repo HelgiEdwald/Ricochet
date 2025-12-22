@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_player_defeated",
   "bboxMode":2,
   "bbox_bottom":75,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c7c9f541-a53f-4e77-ad3e-15a13c240118","name":"c7c9f541-a53f-4e77-ad3e-15a13c240118","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1e7dd53c-9ae0-4591-a258-b4cf0386917e","name":"1e7dd53c-9ae0-4591-a258-b4cf0386917e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c7c9f541-a53f-4e77-ad3e-15a13c240118","name":"c7c9f541-a53f-4e77-ad3e-15a13c240118","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1e7dd53c-9ae0-4591-a258-b4cf0386917e","name":"1e7dd53c-9ae0-4591-a258-b4cf0386917e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -33,7 +33,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_player_defeated",
     "autoRecord":true,
     "backdropHeight":768,

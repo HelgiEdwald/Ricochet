@@ -26,8 +26,8 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"playerSpawnX","filters":[],"listItems":[],"multiselect":false,"name":"playerSpawnX","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"244","varType":1,},
-    {"$GMObjectProperty":"v1","%Name":"playerSpawnY","filters":[],"listItems":[],"multiselect":false,"name":"playerSpawnY","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"400","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"playerSpawnX","filters":[],"listItems":[],"multiselect":false,"name":"playerSpawnX","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"244","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"playerSpawnY","filters":[],"listItems":[],"multiselect":false,"name":"playerSpawnY","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"400","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
